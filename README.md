@@ -10,8 +10,8 @@ Paste one of these 2 bash commands inside terminal (preferrably inside Homestead
 
 **cURL:**
 
-```bash <(curl -s https://raw.githubusercontent.com/lerouxsteyn/install-laravel/master/install.sh)```
+```bash <(curl -s http://bit.ly/installlaravel)```
 
-**wget:**
+**Wget:**
 
-```bash <(wget -q https://raw.githubusercontent.com/lerouxsteyn/install-laravel/master/install.sh -O -)```
+```bash <(wget -q http://bit.ly/installlaravel -O -)```

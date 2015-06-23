@@ -10,7 +10,7 @@ Paste one of these 2 bash commands inside terminal (preferrably inside Homestead
 
 **cURL:**
 
-```bash <(curl -s http://bit.ly/installlaravel)```
+```bash <(curl -s -L http://bit.ly/installlaravel)```
 
 **Wget:**
 

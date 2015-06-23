@@ -2,7 +2,7 @@
 
 Placeholder repo only for now.
 
-This runs a bash script that is hosted on GitHub (**install.sh** - ***master***) branch).
+This runs a bash script that is hosted on GitHub.
 
 ## Usage
 

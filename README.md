@@ -6,12 +6,12 @@ This runs a bash script that is hosted on GitHub (**install.sh** - ***master***)
 
 ## Usage
 
-Paste one of these 2 bash commands inside terminal (preferrably Homestead on Vagrant).
+Paste one of these 2 bash commands inside terminal (preferrably inside Homestead / Vagrant SSH):
 
-```
-### Either use cURL:
-bash <(curl -s https://raw.githubusercontent.com/lerouxsteyn/install-laravel/master/install.sh)
+**cURL:**
 
-### OR use wget:
-bash <(wget -q https://raw.githubusercontent.com/lerouxsteyn/install-laravel/master/install.sh -O -)
-```
+```bash <(curl -s https://raw.githubusercontent.com/lerouxsteyn/install-laravel/master/install.sh)```
+
+**wget:**
+
+```bash <(wget -q https://raw.githubusercontent.com/lerouxsteyn/install-laravel/master/install.sh -O -)```
